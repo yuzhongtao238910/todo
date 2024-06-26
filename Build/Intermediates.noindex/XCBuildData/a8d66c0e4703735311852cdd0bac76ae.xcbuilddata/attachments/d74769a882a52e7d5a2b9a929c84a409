@@ -1,0 +1,58 @@
+{
+  "" : {
+    "diagnostics" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/werrew-master.dia",
+    "emit-module-dependencies" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/werrew-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/werrew-master-emit-module.dia",
+    "swift-dependencies" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/werrew-master.swiftdeps"
+  },
+  "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/yuzhongtao/Desktop/werrew/werrew/ContentView.swift" : {
+    "const-values" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/yuzhongtao/Desktop/werrew/werrew/EditingPage.swift" : {
+    "const-values" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/EditingPage.swiftconstvalues",
+    "dependencies" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/EditingPage.d",
+    "diagnostics" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/EditingPage.dia",
+    "index-unit-output-path" : "/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/EditingPage.o",
+    "llvm-bc" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/EditingPage.bc",
+    "object" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/EditingPage.o",
+    "swift-dependencies" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/EditingPage.swiftdeps",
+    "swiftmodule" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/EditingPage~partial.swiftmodule"
+  },
+  "/Users/yuzhongtao/Desktop/werrew/werrew/UserData.swift" : {
+    "const-values" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/UserData.swiftconstvalues",
+    "dependencies" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/UserData.d",
+    "diagnostics" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/UserData.dia",
+    "index-unit-output-path" : "/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/UserData.o",
+    "llvm-bc" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/UserData.bc",
+    "object" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/UserData.o",
+    "swift-dependencies" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/UserData.swiftdeps",
+    "swiftmodule" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/UserData~partial.swiftmodule"
+  },
+  "/Users/yuzhongtao/Desktop/werrew/werrew/werrewApp.swift" : {
+    "const-values" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/werrewApp.swiftconstvalues",
+    "dependencies" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/werrewApp.d",
+    "diagnostics" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/werrewApp.dia",
+    "index-unit-output-path" : "/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/werrewApp.o",
+    "llvm-bc" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/werrewApp.bc",
+    "object" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/werrewApp.o",
+    "swift-dependencies" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/werrewApp.swiftdeps",
+    "swiftmodule" : "/Users/yuzhongtao/Desktop/werrew/Build/Intermediates.noindex/werrew.build/Debug-iphonesimulator/werrew.build/Objects-normal/arm64/werrewApp~partial.swiftmodule"
+  }
+}

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colors</key>
+	<array>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/yuzhongtao/Desktop/werrew/werrew/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameCard0</string>
+			<key>relativePath</key>
+			<string>./Card0.colorset</string>
+			<key>swiftSymbol</key>
+			<string>card0</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/yuzhongtao/Desktop/werrew/werrew/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameCard1</string>
+			<key>relativePath</key>
+			<string>./Card1.colorset</string>
+			<key>swiftSymbol</key>
+			<string>card1</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/yuzhongtao/Desktop/werrew/werrew/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameCard2</string>
+			<key>relativePath</key>
+			<string>./Card2.colorset</string>
+			<key>swiftSymbol</key>
+			<string>card2</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/yuzhongtao/Desktop/werrew/werrew/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameCard3</string>
+			<key>relativePath</key>
+			<string>./Card3.colorset</string>
+			<key>swiftSymbol</key>
+			<string>card3</string>
+		</dict>
+		<dict>
+			<key>catalogPath</key>
+			<string>/Users/yuzhongtao/Desktop/werrew/werrew/Assets.xcassets</string>
+			<key>objcSymbol</key>
+			<string>ACColorNameCard4</string>
+			<key>relativePath</key>
+			<string>./Card4.colorset</string>
+			<key>swiftSymbol</key>
+			<string>card4</string>
+		</dict>
+	</array>
+	<key>images</key>
+	<array/>
+	<key>symbols</key>
+	<array/>
+</dict>
+</plist>

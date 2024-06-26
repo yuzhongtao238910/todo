@@ -1,0 +1,32 @@
+{
+  "source": "/Users/yuzhongtao/Desktop/werrew/werrew/EditingPage.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "添加"
+      },
+      {
+        "comment": "",
+        "key": "事项内容"
+      },
+      {
+        "comment": "",
+        "key": "截止时间"
+      },
+      {
+        "comment": "",
+        "key": "收藏"
+      },
+      {
+        "comment": "",
+        "key": "取消"
+      },
+      {
+        "comment": "",
+        "key": "确认"
+      }
+    ]
+  },
+  "version": 1
+}
